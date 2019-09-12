@@ -8,4 +8,5 @@ In this project, a web visualization dashboard is created to show off the analys
 ![dashboard](https://github.com/ofunkey/Web/blob/master/Web_Visualization_Dashboard_(Latitude)/Resources/assets/images/Temperature_Latitude.png)
 
 Check this out on the site below!
+
 https://ofunkey.github.io/Web/Web_Visualization_Dashboard_(Latitude)/index.html
