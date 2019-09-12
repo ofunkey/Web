@@ -1,10 +1,9 @@
-# Unit 12 | Assignment - Web Visualization Dashboard (Latitude)
-
-Web Visualization Dashboard of weather in 500+ cities at different latitudes relative to the equator line. The visualizations show temperature, humidity, cloudiness, and wind speed using HTML5, CSS3, and Bootstrap4. 
-
-https://ofunkey.github.io/Web/Web_Visualization_Dashboard_(Latitude)/index.html
+# Web Visualization Dashboard (Latitude)
 
 ## Background
+Data is more powerful when we share it with others! 
 
-Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
+Web Visualization Dashboard of weather in 500+ cities at different latitudes relative to the equator line. The visualizations show temperature, humidity, cloudiness, and wind speed trend using HTML5, CSS3, and Bootstrap4. It also provided insights that cities closer to the equator line are warmer.
+
+https://ofunkey.github.io/Web/Web_Visualization_Dashboard_(Latitude)/index.html
 
