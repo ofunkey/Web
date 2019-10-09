@@ -13,6 +13,8 @@ Check this out on the site below!
 
 https://ofunkey.github.io/Web/Web_Visualization_Dashboard_(Latitude)/index.html
 
+![dashboard](https://github.com/ofunkey/Web/blob/master/Web_Visualization_Dashboard_(Latitude)/Resources/assets/images/webpage.png)
+
 The website consists of 7 pages total, including:
 
 * A [landing page](#landing-page) containing:
