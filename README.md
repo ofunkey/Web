@@ -1,9 +1,10 @@
 # Web Visualization Dashboard (Latitude)
 
+The input data was created from [Python_API Project - What's the Weather Like?](https://github.com/ofunkey/Python_APIs)
+
 Check the output @
 https://ofunkey.github.io/Web/Web_Visualization_Dashboard_(Latitude)/index.html
 
-[The input data was created from from Python_API Project - What's the Weather Like?](https://github.com/ofunkey/Python_APIs)
 
 ## Background
 Data is more powerful when we share it with others!
